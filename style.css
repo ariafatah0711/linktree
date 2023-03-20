@@ -73,27 +73,28 @@ body {
 /* logo tiktok */
 .link.tiktok i:before {
     content: url(https://cdn-icons-png.flaticon.com/512/3116/3116491.png);
+    height: 24px;
+}
+
+.link.tiktok {
+    font-size: 16px;
 }
 
 i.fa-tiktok {
     font-size: 0.5rem;
     margin-right: 0.5rem;
-    width: 24px;
-    height: 24px;
+    width: 5px;
+    height: 5px;
     display: inline-flex;
     align-items: center;
     justify-content: center;
 }
 
-@media only screen and (max-width: 600px) {
+/* @media only screen and (max-width: 600px) {
     .link.tiktok i {
         font-size: 1.2rem;
     }
-}
-
-.fab.fa-tiktok {
-    font-size: 100%;
-}
+} */
 
 /* close tiktok */
 
