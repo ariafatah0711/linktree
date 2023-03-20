@@ -25,8 +25,8 @@ body {
 
 #profilePicture, #profilePicture img {
     position: relative;
-    width: 96px;
-    height: 96px;
+    width: 120px;
+    height: 120px;
     display: block;
     margin: 40px auto 20px;
     border-radius: 50%;
@@ -45,8 +45,21 @@ body {
     text-decoration: none;
 }
 
+#description {
+    padding: 0.7rem;
+    color: var(--accentColor);
+    font-size: 1rem;
+    font-weight: small;
+    line-height: 3;
+    display: block;
+    font-family: var(--font);
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+}
+
 #links {
-    max-width: 675px;
+    max-width: 500px;
     width: auto;
     display: block;
     margin: 27px auto;
