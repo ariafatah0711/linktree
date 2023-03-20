@@ -71,9 +71,21 @@ body {
 }
 
 /* logo tiktok */
-.link.tiktok i:before {
+
+/* .link.tiktok i:before {
     content: url(https://cdn-icons-png.flaticon.com/512/3116/3116491.png);
+    width: 10px;
+    height: 10px;
 }
+
+.link.tiktok {
+    background-size: contain;
+}
+
+.link.link.tiktok:hover {
+    background-color: var(--accentColor);
+    color: var(--bgColor);
+} */
 
 /* close tiktok */
 
