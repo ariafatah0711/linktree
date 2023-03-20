@@ -14,7 +14,7 @@ body {
     min-height: 100vh;
     font-family: var(--font);
     background: radial-gradient(ellipse at bottom, var(--bgColor) 0%, var(--bgColor2) 100%);
-    /* background-image: url('https://bit.ly/3nFVqJh'); */
+    background-image: url('asset/background.gif');
     opacity: 0;
     animation: 1s ease-out var(--delay) 1 transitionAnimation; /* duration/timing-function/delay/iterations/name */
     animation-fill-mode: forwards;
@@ -37,7 +37,7 @@ body {
     color: var(--accentColor);
     font-size: 1rem;
     font-weight: bold;
-    line-height: 1.25;
+    line-height: 1;
     display: block;
     font-family: var(--font);
     width: 100%;
@@ -46,16 +46,16 @@ body {
 }
 
 #description {
-    padding: 0.7rem;
     color: var(--accentColor);
     font-size: 1rem;
     font-weight: small;
-    line-height: 3;
+    line-height: 1.2;
     display: block;
     font-family: var(--font);
     width: 100%;
     text-align: center;
     text-decoration: none;
+    white-space: pre-line;
 }
 
 #links {
@@ -82,25 +82,6 @@ body {
     /* transition: all .25s cubic-bezier(.08, .59, .29, .99); */
     -webkit-tap-highlight-color: transparent;
 }
-
-/* logo tiktok */
-
-/* .link.tiktok i:before {
-    content: url(https://cdn-icons-png.flaticon.com/512/3116/3116491.png);
-    width: 10px;
-    height: 10px;
-}
-
-.link.tiktok {
-    background-size: contain;
-}
-
-.link.link.tiktok:hover {
-    background-color: var(--accentColor);
-    color: var(--bgColor);
-} */
-
-/* close tiktok */
 
 @media (hover: hover) {
     .link:hover {
