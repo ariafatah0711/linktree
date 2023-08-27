@@ -2,9 +2,9 @@
 <h3 align="center">Linktree for my social media</h3>
 
 <!--profil label -->
-<p align="center"> <a href="https://github.com/ariafatah0711">
+<p align="center"> <a href="#">
   <img src="https://profile-counter.glitch.me/{linktree}/count.svg" alt="dhyZx :: Visitor's Count" /></a></p>
-<p align="center"> <a href="https://ariafatah0711.github.io/linktree/">
+<p align="center"> <a href="https://github.com/ariafatah0711">
   <img title="Leviathan" src="https://img.shields.io/badge/ARIA FATAH ANOM -black?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge" ></a>
 <p align="center"> <a href="#">
   <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-print(hello%20world)-blue"></a></p>
