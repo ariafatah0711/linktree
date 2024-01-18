@@ -17,7 +17,7 @@ This is a web linktree that is used to make it easier to find a social media lin
 <p id="table-of-contents"></p>
 
 ## 📋 Table of Contents
-<details>
+<details open>
   <summary><b>preview</b></summary>
 
   - <img src="./icon.png">
