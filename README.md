@@ -31,7 +31,7 @@ This is a web linktree that is used to make it easier to find a social media lin
 2. Navigate to the directory where you want to save this project.
 3. Use the following command to download the project from the GitHub repository:
 ```sh
-git clone https://github.com/ariafatah0711/dicoding_1.git
+git clone https://github.com/ariafatah0711/linktree.git
 ```
 
 <p id="related"></p>
