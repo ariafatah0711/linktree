@@ -20,7 +20,7 @@ This is a web linktree that is used to make it easier to find a social media lin
 <details open>
   <summary><b>preview</b></summary>
 
-  <img src="preview.png">
+  <img src="./preview.png">
 </details>
 
 <p id="download"></p>
